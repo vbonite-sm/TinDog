@@ -35,7 +35,7 @@ body {
 .nav-link {
   font-size: 1.2rem;
   font-family: 'Montserrat', sans-serif;
-  font-weight: 100;
+  font-weight: 300;
 }
 
 /* TITLE PAGE */
@@ -90,7 +90,7 @@ body {
 .feature-details i {
   width: 200px;
   color: #ef8172;
-  padding: 0 0 1rem;
+  margin-bottom: 1rem;
 }
 
 .feature-details i:hover {
