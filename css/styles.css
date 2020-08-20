@@ -9,6 +9,12 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+h2 {
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
 .container-fluid {
   padding: 3% 15% 0;
 }
@@ -75,11 +81,12 @@ body {
 
 #features {
   text-align: center;
+  padding: 7% 15%;
 }
 
 .feature-details {
   font-family: 'Montserrat', sans-serif;
-  padding: 4.5rem 0;
+  /* padding: 4.5rem 0; */
 }
 
 .feature-details h3 {
@@ -100,4 +107,30 @@ body {
 .feature-details p {
   color: #8f8f8f;
   padding: 0 5%;
+}
+
+/* TESTIMONIALS */
+
+#testimonials {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #ffffff;
+}
+
+.testimonials-img {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#press {
+  text-align: center;
+  background-color: #ef8172;
+  padding: 3%;
+}
+
+.press-logo img {
+  width: 15%;
+  margin: 20px 20px 50px;
 }
