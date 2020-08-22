@@ -19,6 +19,10 @@ h2 {
   padding: 3% 15% 10%;
 }
 
+.text-wrapper {
+    text-align: center;
+    padding: 7% 15%;
+}
 
 /* *******************************TITLE************************************** */
 
@@ -51,7 +55,7 @@ h2 {
 }
 
 .title-header {
-  font-family: 'Montserrat', sans-serif;
+  /* font-family: 'Montserrat', sans-serif; */
   font-size: 3.5rem;
   line-height: 1.5;
   font-weight: 900;
@@ -86,16 +90,9 @@ h2 {
 /* FEATURES */
 
 #features {
-  text-align: center;
-  padding: 7% 15%;
   background-color: #ffffff;
   position: relative;
   z-index: 1;
-}
-
-.feature-details {
-  font-family: 'Montserrat', sans-serif;
-  /* padding: 4.5rem 0; */
 }
 
 .feature-details h3 {
@@ -151,11 +148,6 @@ h2 {
 
 /* PRICING */
 
-#pricing {
-  text-align: center;
-  padding: 7% 15%;
-}
-
 .pricing-col {
   padding: 3% 2%;
 }
@@ -169,7 +161,6 @@ h2 {
 }
 
 #cta h3 {
-  font-family: 'Montserrat', sans-serif;
   font-size: 3.5rem;
   line-height: 1.5;
   font-weight: 900;
@@ -183,8 +174,7 @@ h2 {
 /* FOOTER */
 
 #footer {
-  text-align: center;
-  padding: 7% 15% 3%;
+  padding-bottom: 3%
 }
 
 #footer ul {
