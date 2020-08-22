@@ -179,3 +179,11 @@ p {
 #footer ul li {
   margin: 1% 1%;
 }
+
+#footer i {
+  color: #8f8f8f;
+}
+
+#footer i:hover {
+  color: #000000;
+}
